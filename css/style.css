@@ -1,0 +1,52 @@
+body{
+    background-color: #E5E0FF;
+}
+
+.page_header{
+    color: #4E6C50;
+    margin-top: 25px;
+    margin-left: 550px;
+}
+
+.header_info{
+    margin-top: 10px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #00425A;
+    margin-left: 350px;
+}
+.ved{
+    text-decoration: underline;
+}
+
+.vscode_logo{  
+    margin-left: 640px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    -webkit-transition-property: all; 
+    -webkit-transition-duration: 0.8s; 
+    -webkit-transition-timing-function: ease-in-out; 
+    } 
+    
+.vscode_logo:hover{ 
+    transform:scale(1.2); 
+    margin-bottom: 65px;
+}
+
+
+.name{
+    margin-right: 55px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-style: oblique;
+}
+.name:hover{
+    font-size: 35px;
+    transition-duration: 2.0s;
+    margin-bottom: 35px;
+}
+
+
+.roll_no{
+    margin-left: 703px;
+}
